@@ -1,0 +1,6 @@
+*.log
+.bundle/
+vendor/bundle/
+zap-reports/
+.DS_Store
+.env
